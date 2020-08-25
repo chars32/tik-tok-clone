@@ -10,3 +10,5 @@
   * Snap functionality
 * 3rd Party
 * UseRef hooks
+
+[Tik tok clone](https://tik-tok-clone-ac564.web.app/)
